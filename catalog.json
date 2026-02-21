@@ -1,4 +1,9 @@
-[
+{
+  "metadata": {
+    "email": "24f2000921@ds.study.iitm.ac.in",
+    "version": "3af3d194"
+  },
+  "products": [
   {
     "id": "prod-3af3d194-001",
     "name": "Elite Item 1",
@@ -159,4 +164,11 @@
     "stock": 184,
     "rating": 4.3
   }
-]
+],
+  "aggregations": {
+    "electronics": {
+      "count": 7,
+      "inventoryValue": 80196.25
+    }
+  }
+}
